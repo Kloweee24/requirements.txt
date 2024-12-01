@@ -1,0 +1,4 @@
+request==2.32.2
+rich
+pystyle
+pyfiglet==1.0.2
