@@ -1,4 +1,4 @@
-request==;
+request==12.1.24;
 rich==13.7.1
 pystyle
 pyfiglet==1.0.2;
