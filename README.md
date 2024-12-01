@@ -1,9 +1,17 @@
-1- pkg update
-2- pkg install git
-3- pkg install python
-4- pkg install python-pip
-5- git clone https://github.com/Kloweee24
-6- cd Kloweee24
-7- git pull
-8- pip install -r requirements.txt
-9- python main.py
+pkg update
+
+pkg install git
+
+pkg install python
+
+pkg install python-pip 
+
+git clone https://github.com/Kloweee24
+
+cd Kloweee24
+
+git pull
+
+pip install -requirements.txt
+
+python main.py
