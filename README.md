@@ -1,4 +1,9 @@
-request==2.32.3
-rich==13.7.1
-pystyle
-pyfiglet==1.0.2
+pkg update
+pkg install git
+pkg install python
+pkg install python-pip
+git clone https://github.com/Kloweee24
+cd Kloweee24
+git pull
+pip install -r requirements.txt
+python main.py
