@@ -54,6 +54,7 @@ def banner(console):
     print(Colorate.Horizontal(Colors.rainbow, '      𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 𝐓𝐎 𝐁𝐔𝐘 𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃 𝐁𝐀𝐋𝐀𝐍𝐂𝐄 𝐓𝐆 @Kloweee24 ')) 
     print(Colorate.Horizontal(Colors.rainbow, f' ‌           𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @{Klowee} 𝐎𝐫 @{Klowee}'))
     print(Colorate.Horizontal(Colors.rainbow, '=================================================================='))
+
 elif login_response == 101:
                 print(Colorate.Horizontal(Colors.rainbow, 'WRONG PASSWORD.'))
                 sleep(2)
