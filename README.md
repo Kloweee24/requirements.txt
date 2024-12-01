@@ -6,7 +6,7 @@ pkg install python
 
 pkg install python-pip 
 
-git clone https://github.com/Kloweee24.git
+git clone https://github.com/Kloweee24
 
 cd Kloweee24
 
