@@ -1,4 +1,4 @@
 request==2.32.2;
-rich
+rich==13.7.1
 pystyle
 pyfiglet==1.0.2;
