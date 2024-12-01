@@ -8,7 +8,7 @@ pkg install python-pip
 
 git clone https://github.com/Kloweee24
 
-cd Kloweee24
+cd requirements.txt
 
 git pull
 
