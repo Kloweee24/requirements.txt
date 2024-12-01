@@ -12,6 +12,6 @@ cd Kloweee24
 
 git pull
 
-pip install -requirements.txt
+pip install -r requirements.txt
 
 python main.py
